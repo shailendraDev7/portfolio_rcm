@@ -4,6 +4,7 @@ import viteLogo from '/vite.svg'
 import './App.css'
 import PortfolioIndex from './components/PortfolioIndex'
 
+
 function App() { 
   return (
       <PortfolioIndex/>
